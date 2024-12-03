@@ -4,5 +4,5 @@
 - Personal Website: https://liwind.github.io/
 
 ### ✨ Github State:
-![Feng's GitHub stats](https://github-readme-stats.vercel.app/api?username=liwind&&hide=contribs&show_icons=true&rank_icon=github&line_height=24)
-![Feng's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liwind&layout=compact&card_width=400)
+![Feng's GitHub stats](https://github-readme-stats.vercel.app/api?username=liwind&&hide=contribs&show_icons=true&rank_icon=github&card_width=400&line_height=24)
+![Feng's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liwind&layout=compact)
